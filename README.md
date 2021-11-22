@@ -29,8 +29,6 @@ Clone the [repository](https://github.com/sodiadrhain/short-url-link-expander) a
 
 ### Running App locally
 
-This app is written with Vuejs so Nodejs powers it; Enter the following commands to start app locally
-
 ## Project setup
 
 ```
@@ -104,4 +102,4 @@ To load the homepage of the app, visit the url below in a browser:
 
     http://0.0.0.0:5000
 
-Thus your adventure begins... The project is up and running.
+Thus your adventure begins... The app is up and running.
