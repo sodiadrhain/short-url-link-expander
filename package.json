@@ -1,0 +1,22 @@
+{
+  "name": "short-url-link-expander",
+  "version": "1.0.0",
+  "description": "This tool gets the full url of a short url",
+  "main": "index.js",
+  "author": "Adesoji Awobajo",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "docker:bash": "docker-compose up -d",
+    "docker:up": "docker container start short_url_link_expander",
+    "docker:down": "docker container stop short_url_link_expander"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
