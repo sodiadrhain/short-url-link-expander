@@ -25,7 +25,7 @@ Ensure you have the following softwares installed:
 - [Docker](https://docs.docker.com/install/) (if you need to run as container)
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 
-Clone the [repository](https://github.com/sodiadrhain/movie-web-app.git) and proceed with the instructions below.
+Clone the [repository](https://github.com/sodiadrhain/short-url-link-expander) and proceed with the instructions below.
 
 ### Running App locally
 
